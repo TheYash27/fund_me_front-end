@@ -14,17 +14,17 @@ This is a minimalistic example what you can find in the [metamask docs](https://
 
 ### Optional Gitpod
 
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
+If you can't or don't want to run and install locally, you can work with this repo in GitPod. If you do this, you can skip the `clone this repo` part.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/html-fund-me-f23)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/TheYash27/fund_me_front-end)
 
 # Quickstart
 
 1. Clone the repo
 
 ```
-git clone https://github.com/Cyfrin/html-fund-me-f23
-cd html-fund-me-f23
+git clone https://github.com/TheYash27/fund_me_front-end
+cd fund_me_front-end
 ```
 
 2. Run the file.
@@ -46,8 +46,8 @@ Make sure you have the following installed:
 1. You'll need to open up a second terminal and run:
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-f23
-cd foundry-fund-me-f23
+git clone https://github.com/TheYash27/fund_me_front-end
+cd fund_me_front-end
 make build
 make anvil
 ```
@@ -63,10 +63,10 @@ This will deploy a sample contract and start a local hardhat blockchain.
 
 In your `constants.js` file, update the variable `contractAddress` with the address of the deployed "FundMe" contract. You'll see it near the top of the hardhat output.
 
-3. Connect your [metamask](https://metamask.io/) to your local hardhat blockchain.
+3. Connect your [metamask](https://metamask.io/) to your local HardHat blockchain.
 
 > **PLEASE USE A METAMASK ACCOUNT THAT ISNT ASSOCIATED WITH ANY REAL MONEY.**
-> I usually use a few different browser profiles to separate my metamasks easily.
+> I usually use a few different browser profiles to separate my MetaMask accounts easily.
 
 In the output of the above command, take one of the private key accounts and [import it into your metamask.](https://metamask.zendesk.com/hc/en-us/articles/360015489331-How-to-import-an-Account)
 
@@ -80,7 +80,4 @@ If you appreciated this, feel free to follow me or donate!
 
 ETH/Arbitrum/Optimism/Polygon/etc Address: 0x880D559280A8De24C6F19FBA1569B8e572Ff5BA5
 
-[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickAlphaC)
-[![Patrick Collins YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
-[![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
-[![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
+LinkedIn: https://www.linkedin.com/in/yash-nilesh-soman-a7159521a/
